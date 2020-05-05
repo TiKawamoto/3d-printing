@@ -16,3 +16,7 @@ This is the hardware / settings combo I used to successfully print this model.
 **Line Width -** 0.4mm  
 **Infill -** 20% Zigzag  
 **Supports -** Yes (the USB and SD card overhangs may give you some trouble)  
+
+![coldcard 1](https://github.com/TiKawamoto/3d-printing/blob/master/Coldcard/coldcard-thumb-1.jpg)
+![coldcard 2](https://github.com/TiKawamoto/3d-printing/blob/master/Coldcard/coldcard-thumb-2.jpg)
+![coldcard 3](https://github.com/TiKawamoto/3d-printing/blob/master/Coldcard/coldcard-thumb-3.jpg)
