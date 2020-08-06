@@ -5,6 +5,9 @@ The case currently fits all Coldcard Wallet models (Mk1-Mk3) and has openings fo
 
 Designed in Autodesk Fusion 360, built around the [Coldcard Wallet Volumetric Model](https://github.com/TiKawamoto/3d-printing/tree/master/Coldcard)
 
+## Fusion 360 Project Public Link
+Open the project in Fusion 360 or download the latest version in alternate file formats via the [Fusion 360 public link](https://a360.co/3ifX3I4)
+
 ## For 3D Printing
 This is the hardware / settings combo I used to successfully print this model.
 
@@ -24,3 +27,7 @@ This is the hardware / settings combo I used to successfully print this model.
 **Supports -** Yes (Everywhere, >50 degree overhang)
 
 **Print Time -** Should be a little over one hour at these settings and a 50mm/s print speed
+
+![case 1](https://github.com/TiKawamoto/3d-printing/blob/master/TK21%20Open%20Coldcard%20Case/tk21-open-cc-case-1.jpg)
+![case 2](https://github.com/TiKawamoto/3d-printing/blob/master/TK21%20Open%20Coldcard%20Case/tk21-open-cc-case-2.jpg)
+![case 3](https://github.com/TiKawamoto/3d-printing/blob/master/TK21%20Open%20Coldcard%20Case/tk21-open-cc-case-3.jpg)
