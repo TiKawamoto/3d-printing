@@ -22,3 +22,5 @@ This is the hardware / settings combo I used to successfully print this model.
 **Line Width -** 0.4mm  
 **Infill -** 0%
 **Supports -** Yes (Everywhere, >50 degree overhang)
+
+**Print Time -** Should be a little over one hour at these settings and a 50mm/s print speed
